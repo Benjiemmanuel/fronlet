@@ -1,0 +1,87 @@
+.Layoutcontainer {
+  width: 1440px;
+  display: flex;
+  height: 75vh;
+  align-items: center;
+  justify-content: center;
+}
+.section {
+  width: 1088px;
+  height: 548px;
+  top: 991px;
+  left: 176px;
+  gap: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+}
+.Layouttitle {
+  text-align: center;
+  width: 898px;
+  font-weight: 500;
+  height: 146px;
+  line-height: 72.8px;
+  font-size: 56px;
+}
+.messageContainer {
+  display: flex;
+  width: 1088px;
+  max-height: 370px;
+  gap: 32px;
+}
+.messageContents {
+  width: 528px;
+  height: 370px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+ background-color: #FFFFFF;
+  border-radius: 12px;
+  padding-left: 24px;
+}
+.subtitle {
+  color: #000000;
+  line-height: 28.8px;
+  font-weight: 500;
+  font-size: 24px;
+}
+.containersubcontent {
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+  height: 197px;
+}
+.textone {
+  font-size: 17px;
+  color: #4e4e4e;
+  font-weight: 400;
+  line-height: 27.2px;
+}
+.texttwo {
+  font-size: 17px;
+  line-height: 27.2px;
+  font-weight: 600;
+}
+.learnMoreContainer {
+  display: flex;
+  width: 116.97px;
+  height: 27px;
+  align-items: center;
+  justify-content: start;
+  gap: 4px;
+}
+.learnMoreText {
+  font-size: 17px;
+  color: #000000;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 27.2px;
+  text-decoration: underline;
+}
+.learmoreIcon {
+  width: 15px;
+  height: 15px;
+  color: #4e4e4e;
+  rotate: 45;
+}
