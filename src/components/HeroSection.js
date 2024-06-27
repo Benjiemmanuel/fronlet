@@ -13,8 +13,8 @@ const HeroSection = () => {
           </h2>
           <p>
             Connecting experts in product development and growth marketing
-            willing to offer their services to amazing startups in exchange
-            for minute equity (usually 0.5% to 2%).
+            willing to offer their services to amazing startups in exchange for
+            minute equity (usually 0.5% to 2%).
           </p>
           <Button className={styles.button}>SINC With Us</Button>
         </div>
