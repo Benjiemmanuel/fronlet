@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fronlet/static/css/main.8b176c25.css",
+    "main.js": "/fronlet/static/js/main.ff45640b.js",
+    "static/js/453.c48af57e.chunk.js": "/fronlet/static/js/453.c48af57e.chunk.js",
+    "index.html": "/fronlet/index.html",
+    "main.8b176c25.css.map": "/fronlet/static/css/main.8b176c25.css.map",
+    "main.ff45640b.js.map": "/fronlet/static/js/main.ff45640b.js.map",
+    "453.c48af57e.chunk.js.map": "/fronlet/static/js/453.c48af57e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b176c25.css",
+    "static/js/main.ff45640b.js"
+  ]
+}
